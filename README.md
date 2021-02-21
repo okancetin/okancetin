@@ -1,5 +1,7 @@
 ### Hey, I am Okan 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ![](https://komarev.com/ghpvc/?username=okancetin)
 
 
