@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I am Okan 👋
 
 
 An experienced software engineer graduate with Computer Science degree. Over 11 years professional experience in developing large-scale and distributed enterprise applications with using Java/Spring-Boot and cloud-native backend applications. Have a strong sense of curiosity Cloud Architecture and Golang.
