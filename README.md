@@ -11,7 +11,11 @@ An experienced software engineer graduate with Computer Science degree. Over 11 
 - 🌱 I’m currently learning go and kubernetes
 - 👯 I’m looking to collaborate on creating kubernetes tools with go
 - 🤔 I’m looking for help with go
-- ⚡ Fun fact: Improv acting
+- :performing_arts: Fun fact: Improv acting
+
+:cyclone: Certifications
+- :triangular_flag_on_post: SAFe Scaled Agile (valid until 2023)
+- :cloud: CKAD Certified Kubernetes Application Developer (In Progress. Due date : 2021 Q2)
 
 
 📈 **My GitHub Stats:**
