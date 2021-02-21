@@ -6,17 +6,17 @@
 
 An experienced software engineer graduate with Computer Science degree. Over 11 years professional experience in developing large-scale and distributed enterprise applications with using Java/Spring-Boot and cloud-native backend applications. Have a strong sense of curiosity Cloud Architecture and Golang.
 
-- 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
-
-
-- 🌱 I’m currently learning go and kubernetes
-- 👯 I’m looking to collaborate on creating kubernetes tools with go
-- 🤔 I’m looking for help with go
-- :performing_arts: Fun fact: Improv acting
 
 :cyclone: **Certifications**
 - :triangular_flag_on_post: SAFe Scaled Agile (valid until 2023)
 - :cloud: CKAD Certified Kubernetes Application Developer (In Progress. Due date : 2021 Q2)
+- :cloud: Azure Developer Associate (Not Started. Due date : 2021 Q4)
+
+- 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
+- 🌱 I’m currently learning go and kubernetes
+- 👯 I’m looking to collaborate on creating kubernetes tools with go
+- 🤔 I’m looking for help with go
+- :performing_arts: Fun fact: Improv acting
 
 
 📈 **My GitHub Stats:**
