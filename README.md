@@ -1,9 +1,7 @@
 ### Hey, I am Okan 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ![](https://komarev.com/ghpvc/?username=okancetin)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=okancetin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 An experienced software engineer graduate with Computer Science degree. Over 11 years professional experience in developing large-scale and distributed enterprise applications with using Java/Spring-Boot and cloud-native backend applications. Have a strong sense of curiosity Cloud Architecture and Golang.
 
