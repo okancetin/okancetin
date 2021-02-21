@@ -11,8 +11,8 @@ I am an experienced software engineer graduate with Computer Science degree. Ove
 
 :cyclone: **Certifications**
 - :triangular_flag_on_post: SAFe Scaled Agile (valid until 2023)
-- :cloud: CKAD Certified Kubernetes Application Developer (In Progress. Due date : 2021 Q2)
-- :cloud: Azure Developer Associate (Not Started. Due date : 2021 Q4)
+- :cloud: CKAD Certified Kubernetes Application Developer (In Progress.Due date: 2021_Q2)
+- :cloud: Azure Developer Associate (Not Started.Due date : 2021_Q3)
 ___
 
 - 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
