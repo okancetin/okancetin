@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/okancetin/okancetin/blob/main/illustration.jpg" alt="Illustration of Okan during coding" width=350px height=465px/>
+<img align="right" src="https://github.com/okancetin/okancetin/blob/main/illustration.jpg" alt="Illustration of Okan during coding" width=340px height=465px/>
 
 ### Hey, I am Okan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ocetin)
