@@ -11,8 +11,8 @@ I am an experienced software engineer graduate with Computer Science degree. Ove
 
 :cyclone: **Certifications**
 - :triangular_flag_on_post: [SAFe Scaled Agile](https://www.youracclaim.com/badges/16d5c52f-aaf0-4823-92a4-10b526de3068/linked_in) (Expires on 2022)
-- :cloud: [CKAD Kubernetes Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) (In Progress.Due date: 2021_Q2)
-- :cloud: [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) (Not Started.Due date : 2021_Q3)
+- :cloud: [CKAD Kubernetes Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) (WIP.Due date: 2021_Q2)
+- :cloud: [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) (Due date : 2021_Q3)
 ___
 
 - 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
