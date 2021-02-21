@@ -1,7 +1,7 @@
 ### Hey, I am Okan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ocetin)
-
 ![](https://komarev.com/ghpvc/?username=okancetin)
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ocetin/)
 
 An experienced software engineer graduate with Computer Science degree. Over 11 years professional experience in developing large-scale and distributed enterprise applications with using Java/Spring-Boot and cloud-native backend applications. Have a strong sense of curiosity Cloud Architecture and Golang.
