@@ -11,6 +11,7 @@ An experienced software engineer graduate with Computer Science degree. Over 11 
 - :triangular_flag_on_post: SAFe Scaled Agile (valid until 2023)
 - :cloud: CKAD Certified Kubernetes Application Developer (In Progress. Due date : 2021 Q2)
 - :cloud: Azure Developer Associate (Not Started. Due date : 2021 Q4)
+___
 
 - 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
 - 🌱 I’m currently learning go and kubernetes
