@@ -14,7 +14,7 @@ An experienced software engineer graduate with Computer Science degree. Over 11 
 ___
 
 - 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
-- 🌱 I’m currently learning go and kubernetes
+- 🌱 I’m currently learning go and cloud architecture
 - 👯 I’m looking to collaborate on creating kubernetes tools with go
 - 🤔 I’m looking for help with go
 - :performing_arts: Fun fact: Improv acting
