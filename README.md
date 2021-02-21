@@ -13,7 +13,7 @@ An experienced software engineer graduate with Computer Science degree. Over 11 
 - 🤔 I’m looking for help with go
 - :performing_arts: Fun fact: Improv acting
 
-:cyclone: Certifications
+:cyclone: **Certifications**
 - :triangular_flag_on_post: SAFe Scaled Agile (valid until 2023)
 - :cloud: CKAD Certified Kubernetes Application Developer (In Progress. Due date : 2021 Q2)
 
