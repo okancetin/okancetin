@@ -6,8 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=okancetin)
 
-I am an experienced software engineer graduate with Computer Science degree. Over 13 years professional experience in developing large-scale and distributed enterprise applications with using Java/Spring-Boot and cloud-native backend applications. Have a strong sense of curiosity Cloud Architecture and Golang.
-
+I am a graduate with a degree in Computer Science and over 15 years of professional experience. I specialize in developing large-scale, distributed enterprise applications using Java/Spring-Boot, as well as cloud-native backend applications. I have a strong sense of curiosity about AI and LLMs
 
 :cyclone: **Certifications**
 - :triangular_flag_on_post: [SAFe Scaled Agile](https://www.youracclaim.com/badges/16d5c52f-aaf0-4823-92a4-10b526de3068/linked_in) (Expires on 2022)
