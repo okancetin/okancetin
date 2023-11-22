@@ -14,10 +14,10 @@ I am a graduate with a degree in Computer Science and over 15 years of professio
 - :cloud: [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) (Due date : 2021_Q3)
 ___
 
-- 🔭 I’m currently working on Backend focused, Spring-boot based and cloud native project.
-- 🌱 I’m currently learning go and cloud architecture
-- 👯 I’m looking to collaborate on creating kubernetes tools with go
-- 🤔 I’m looking for help with go
+- 🔭 I’m currently leading a Full-Stack development team.
+- 🌱 I’m currently LLM and AI 
+- 👯 I’m looking to collaborate on creating Kubernetes tools with go
+- 🤔 I’m looking for help with generative AI
 - :performing_arts: Fun fact: Improv acting
 
 
