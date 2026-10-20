@@ -1,29 +1,42 @@
-<img align="right" src="https://github.com/okancetin/okancetin/blob/main/illustration.jpg" alt="Illustration of Okan during coding" width=340px height=465px/>
+# Hi, I'm Okan 👋
 
-### Hey, I am Okan 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ocetin)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ocetin/)
+**CTO & Co-Founder at [NexStrat AI](https://www.nexstrat.ai/) · Software Engineer · Berlin**
 
-![](https://komarev.com/ghpvc/?username=okancetin)
+I build AI products and backend systems, and lead the teams behind them.
 
-I am a graduate with a degree in Computer Science and over 17 years of professional experience. I specialize in developing large-scale, distributed enterprise applications using Java/Spring-Boot, as well as cloud-native backend applications. I have a strong sense of curiosity about AI and LLMs
+I have 17+ years of experience across startups, enterprise software and engineering leadership. At NexStrat AI, I work hands-on on an AI-powered B2B SaaS platform for strategic planning, combining product development with architecture and technical leadership.
 
-:cyclone: **Certifications**
-- :triangular_flag_on_post: [SAFe Scaled Agile](https://www.youracclaim.com/badges/16d5c52f-aaf0-4823-92a4-10b526de3068/linked_in) (Expires on 2022)
-- :cloud: [CKAD Kubernetes Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) (WIP.Due date: 2021_Q2)
-- :cloud: [Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) (Due date : 2021_Q3)
-___
+[LinkedIn](https://www.linkedin.com/in/ocetin/) · [NexStrat AI](https://www.nexstrat.ai/) · [Email](mailto:okancetin@gmail.com)
 
-- 🔭 I’m currently leading a Full-Stack development team.
-- 🌱 I’m currently LLM and AI 
-- 👯 I’m looking to collaborate on creating Kubernetes tools with go
-- 🤔 I’m looking for help with generative AI
-- :performing_arts: Fun fact: Improv acting
+## What I work on
 
+- **AI applications:** LLM integration, multi-agent workflows and orchestration with LangChain and LangGraph.
+- **Backend architecture:** APIs, distributed systems, multi-tenant SaaS and authentication.
+- **Engineering leadership:** Technical direction, delivery, hiring and team development.
 
-📈 **My GitHub Stats:**
+## Technologies I use
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okancetin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okancetin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Java, TypeScript |
+| AI | LangGraph, LangChain, OpenAI APIs, open-source LLMs |
+| Backend & identity | FastAPI, Spring Boot, Keycloak |
+| Data | PostgreSQL, MongoDB, Elasticsearch |
+| Cloud & infrastructure | Azure, AWS, Docker, Kubernetes |
+
+## Previously
+
+- **WorkMotion:** Led a full-stack engineering team delivering finance features for a B2B SaaS platform.
+- **Diconium / Volkswagen:** Developed authentication and authorization systems for web and mobile applications.
+- **Accenture:** Led engineering teams and delivered enterprise software for the banking sector.
+- **Apple:** Contributed to the launch of Turkish-language Siri.
+
+## Work with me
+
+I'm open to freelance AI engineering, software architecture and technical leadership projects, including fractional CTO engagements.
+
+If you're building an AI product, improving a backend platform or looking for technical leadership for your team, [let's connect](https://www.linkedin.com/in/ocetin/).
+
+---
+
+🎭 Outside engineering, I perform improv theatre.
